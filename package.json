@@ -1,0 +1,12 @@
+{
+  "name": "extendio",
+  "version": "1.0.0",
+  "description": "extendio - js фреймворк, основная идея которого быстрая конвертация серверного монолина\r в набор микросервисов",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "valerian720",
+  "license": "MIT"
+}
